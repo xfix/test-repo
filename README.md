@@ -12,3 +12,5 @@ b d
 c
 
 Yay, it works!
+
+This time it's autoconfirmed, right?
