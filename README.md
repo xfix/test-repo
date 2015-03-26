@@ -1,6 +1,6 @@
 # test-repo
 
-test commit in test-repo
+test commit in test-repo a
 
 blah blah
 
