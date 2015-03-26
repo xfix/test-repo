@@ -17,9 +17,13 @@ This time it's autoconfirmed, right?
 
 (and don't bother me with autoconfirmed, mkay?)
 
+<<<<<<< HEAD
+hello worlds
+=======
 stuff
 
 Hello.
 
 I commit stuff and get successful.
 az
+>>>>>>> master
