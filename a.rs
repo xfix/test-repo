@@ -1,5 +1,5 @@
 // https://github.com/xfix/test-repo
 fn main() {
     // A comment
-    println!("REWRITE IT IN RUST");
+    println!("(don't) REWRITE IT IN RUST");
 }
