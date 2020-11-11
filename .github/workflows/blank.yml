@@ -1,0 +1,16 @@
+name: Always passing CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Runs a set of commands using the runners shell
+      - name: Do nothing
+        run: sleep 60
